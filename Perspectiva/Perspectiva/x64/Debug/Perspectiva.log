@@ -1,0 +1,5 @@
+﻿  perspectiva.cpp
+C:\Users\carlo\source\repos\Perspectiva\Perspectiva\perspectiva.cpp(44,9): warning C4101: 'i': variável local não referenciada
+C:\Users\carlo\source\repos\Perspectiva\Perspectiva\perspectiva.cpp(95,22): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\carlo\source\repos\Perspectiva\Perspectiva\perspectiva.cpp(98,20): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+  Perspectiva.vcxproj -> C:\Users\carlo\source\repos\Perspectiva\x64\Debug\Perspectiva.exe
